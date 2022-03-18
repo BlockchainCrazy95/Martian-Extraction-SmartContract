@@ -35,4 +35,8 @@ main().catch((error) => {
 === Polygon / Mumbai Testnet
 MetaMartianNFT: 0x2afc08b10628cD4d51523d5A50E63311C9cbB7B7
 CelestialNFT: 0x841cC9051D716FEeEC511EEdE9F348da1E3A6ED4
+
+=== Polygon Mainnet
+MetaMartianNFT: 0xdd2b34e738042413028a82de14b47bf887ff2d29
+CelestialNFT: 
 */
